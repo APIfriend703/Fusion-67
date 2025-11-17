@@ -1,3 +1,3 @@
-# Fusion-67
-```chmod
-jjxjjdksk
+# Fusion-win
+fusion win is a project to make windows on Android 11+ 
+
