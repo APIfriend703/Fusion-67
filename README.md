@@ -1,1 +1,16 @@
-# Fusion-67
+# Fusion-Win 
+Fusion-win
+is a project to run Windows-based applications on Android using lightweight emulation and compatibility tools. Fusion-67 provides an optimized layer combining performance tweaks, virtual drivers, and improved UI integration. It aims to make classic and modern Windows programs usable on mobile devices with minimal setup. Designed for portability, stability, and open-source development using termux
+# windows installation 
+first download file from released
+`win.sh`
+`install zarchiver`
+`install termux` {link unavailable}
+`go to downloads`
+`import to termux` using this arrow ↑→
+here is the command fixed other are coming.
+```chmod
+chmod 777 win.sh && ./win.sh
+
+
+
